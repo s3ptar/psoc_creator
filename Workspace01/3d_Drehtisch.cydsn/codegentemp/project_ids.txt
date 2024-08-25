@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|996f762e-6c4b-468a-bebb-3dc0ba9d9d84
+C:\Users\rene_\OneDrive\Dokumente\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|4fdf4802-3c95-443b-92d9-f07e05556172
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|ad3c5087-1952-402d-b518-6290b0216a83
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|b89149d1-e4c5-4e9e-9f24-df8fc8b85139
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|5b7e331c-421b-467b-a1c7-3736ab0d6f57
+D:\Repos\psoc_creator\Workspace01\3d_Drehtisch.cydsn\3d_Drehtisch.cyprj|5ba0a83e-80f1-4624-924c-4f3d46ada37b

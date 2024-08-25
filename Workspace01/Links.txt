@@ -1,0 +1,3 @@
+https://www.infineon.com/cms/en/product/evaluation-boards/cy8ckit-059/
+https://github.com/laurb9/StepperDriver/tree/master/src
+https://www.bing.com/search?pglt=41&q=a4988+datasheet&cvid=df95c25aa5f24cd58df34882d243a6b5&gs_lcrp=EgZjaHJvbWUqBggCEAAYQDIGCAAQRRg7MgYIARBFGDkyBggCEAAYQDIGCAMQABhAMgYIBBAAGEAyBggFEAAYQDIGCAYQRRg8MgYIBxBFGDwyBggIEEUYPdIBCDQ2MjNqMGoxqAIAsAIA&FORM=ANNTA1&PC=U531
